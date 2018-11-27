@@ -248,7 +248,7 @@ The argument passed to the `rowRenderer` callable is a JavaScript object that co
 }
 ```
 
-For implementation details regarding these properties, see the other relevant areas of the documentatio.
+For implementation details regarding these properties, see the other relevant areas of the documentation.
 
 ### Bulk select checkboxes
 
